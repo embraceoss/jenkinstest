@@ -19,10 +19,5 @@ namespace MyFirstUnitTests
             Assert.Equal(4, s.Add(2, 2));
         }
 
-        [Fact]
-        public void FailingTest()
-        {
-            Assert.Equal(5, s.Add(2, 2));
-        }
     }
 }
