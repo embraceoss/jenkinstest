@@ -3,23 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SampleProject;
 using Xunit;
 
-namespace TestSampleProject
+namespace ProductCode
 {
-    public class UnitTest1
+    public class Class1
     {
+        public Service s;
+
+        public Class1()
+        {
+            s = new Service();
+        }
+
         [Fact]
         public void PassingTest()
         {
-            Assert.Equal(4, Product.Add(2, 2));
+            Assert.Equal(4, s.Add(2, 2));
         }
 
         [Fact]
         public void FailingTest()
         {
-            Assert.Equal(4, Product.Add(2, 1));
+            Assert.Equal(5, s.Add(2, 2));
         }
     }
 }

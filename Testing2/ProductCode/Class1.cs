@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SampleProject
+namespace ProductCode
 {
-    public static class Product
+    public class Service
     {
-        public static int Add(int x, int y)
+        public int Add(int x, int y)
         {
             return x + y;
         }
