@@ -1,0 +1,5 @@
+f:\prj\Prototype\jenkinssamples\jenkinstest\SampleProject\bin\Debug\SampleProject.dll
+f:\prj\Prototype\jenkinssamples\jenkinstest\SampleProject\bin\Debug\SampleProject.pdb
+f:\prj\Prototype\jenkinssamples\jenkinstest\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+f:\prj\Prototype\jenkinssamples\jenkinstest\SampleProject\obj\Debug\SampleProject.dll
+f:\prj\Prototype\jenkinssamples\jenkinstest\SampleProject\obj\Debug\SampleProject.pdb
