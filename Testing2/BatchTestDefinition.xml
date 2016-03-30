@@ -10,4 +10,13 @@
       <Command>TestCode.dll</Command>
     </Task>
   </TaskGroup>
+  <TaskGroup>
+    <BinDropPath>Testing2\TestCode\bin\Debug</BinDropPath>
+    <Task>
+      <Command>TestCode.dll</Command>
+    </Task>
+    <Task>
+      <Command>TestCode.dll</Command>
+    </Task>
+  </TaskGroup>
 </TasksDescription>
