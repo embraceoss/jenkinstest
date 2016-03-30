@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TasksDescription>
+  <OwnerName>Owner name</OwnerName>
+  <TaskGroup>
+    <BinDropPath>Testing2\TestCode\bin\Debug</BinDropPath>
+    <Task>
+      <Command>TestCode.dll</Command>
+    </Task>
+    <Task>
+      <Command>TestCode.dll</Command>
+    </Task>
+  </TaskGroup>
+</TasksDescription>
